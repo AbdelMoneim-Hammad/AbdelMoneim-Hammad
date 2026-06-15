@@ -6,7 +6,7 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
 - 🧠 I'm an **Artificial Intelligence Student** passionate about building intelligent systems.
 - 📊 Aspiring **Data Scientist & Machine Learning Engineer** — turning data into decisions.
